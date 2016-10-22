@@ -17,6 +17,8 @@ public class Auto extends Vehiculo {
      */
     public Auto() {
     }
+    
+    // kjhbkjhkjhjk
 
     public Auto(String marca, String modelo, String color, int largo, int ancho, int altura) {
         super(ancho, largo, altura);
